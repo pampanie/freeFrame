@@ -1,0 +1,9 @@
+ofxCv
+ofxFft
+ofxGui
+ofxKinect
+ofxKinectV2
+ofxOpenCv
+ofxOsc
+ofxSyphon
+ofxThreadedImageLoader
