@@ -9,7 +9,12 @@ public:
 	void update();
 	void draw();
 	
+	
 	vector<ofVideoPlayer>		movies;
+	vector<ofTexture>			texs;
+	ofFbo						screenFbo;
+	ofVideoPlayer player;
+	ofTexture		playerTex;
 	
 	void keyPressed(int key);
 	void keyReleased(int key);
